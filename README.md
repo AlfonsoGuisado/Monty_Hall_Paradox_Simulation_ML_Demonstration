@@ -13,4 +13,4 @@ Dive into the fascinating Monty Hall problem! Explore it through simulation, app
 #### 🛠️ Tools: 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
-Language: Spanish
+**Language**: Spanish
