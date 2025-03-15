@@ -10,6 +10,7 @@ Dive into the fascinating Monty Hall problem! Explore it through simulation, app
 - **🤖 Machine Learning**: Apply ML techniques to predict outcomes and gain deeper insights.
 - **📚 Mathematical Explanation**: Dive into the theoretical underpinnings of the paradox.
 
-#### 🛠️ Tools: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+#### 🛠️ Tools: 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 Language: Spanish
