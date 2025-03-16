@@ -4,7 +4,7 @@ Dive into the fascinating Monty Hall problem! Explore it through simulation, app
 
 #### 🚩 Highlights:
 
-- **🎲 Simulations:** Visualize the paradox in action and understand its outcomes.
+- **🎲 Simulation:** Visualize the paradox in action and understand its outcomes.
 - **🤖 Machine Learning:** Apply ML techniques to predict outcomes and gain deeper insights.
 - **📚 Mathematical Explanation:** Dive into the theoretical underpinnings of the paradox.
 
