@@ -2,7 +2,7 @@
 
 Dive into the fascinating Monty Hall paradox! Explore it through simulation, apply machine learning techniques, and uncover its mathematical demonstration. A perfect blend of probability, data science, and AI for a better understanding of probability and decision-making.
 
-#### 🚩 Highlights:
+#### 🚩 Key Features:
 
 - **🎲 Simulation:** Visualize the paradox in action and understand its outcomes.
 - **🤖 Machine Learning:** Apply ML techniques to predict outcomes and gain deeper insights.
